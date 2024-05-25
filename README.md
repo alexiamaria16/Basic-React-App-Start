@@ -1,3 +1,11 @@
+After cloning this project, to add it to your personal GitHub repository, follow these steps:
+
+git remote remove origin 
+git remote add origin https://github.com/username/repository.git
+git branch -M main
+git push -u origin main
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
