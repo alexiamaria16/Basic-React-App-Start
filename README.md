@@ -1,4 +1,4 @@
-After cloning this project, to add it to your personal GitHub repository, follow these steps:
+## After cloning this project, to add it to your personal GitHub repository, follow these steps:
 
 git remote remove origin 
 git remote add origin https://github.com/username/repository.git
